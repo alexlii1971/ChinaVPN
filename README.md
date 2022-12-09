@@ -6,3 +6,6 @@
 
 请点击以下链接回答问题：
 https://github.com/alexlii1971/ChinaVPN/issues/1
+
+
+另外，请点击本资源的“Watch”，以便有新的动态时你可以自动收到通知。
